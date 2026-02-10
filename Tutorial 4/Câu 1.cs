@@ -93,4 +93,5 @@ class Cau1
         Console.WriteLine($"WITH Interlocked: {counterWithInterlocked} (Expected: 50000)");
         Console.WriteLine($"→ ĐÚNG! Interlocked nhanh hơn lock\n");
     }
+
 }
